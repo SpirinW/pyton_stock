@@ -1,0 +1,292 @@
+Test N1:
+For equation 
+4x^3 + 3x^2 + 2x + 1 = 0
+There are 1 real ,2 complex solutions:
+-0.605829586188268
+-0.072085206905866 + 0.6383267351483765i
+-0.072085206905866 - 0.6383267351483765i
+Test N2:
+For equation 
+x^3 + 8 = 0
+There are 1 real ,2 complex solutions:
+-2.0
+1.0 - 1.7320508075688772i
+1.0 + 1.7320508075688772i
+Test N3:
+For equation 
+5x^3 - x^2 - 20x + 4 = 0
+There are 3 real solutions:
+-1.9999999999999998
+0.19999999999999818
+2.0
+Test N4:
+For equation 
+7x^3 + 3x^2 - x - 9 = 0
+There are 1 real ,2 complex solutions:
+0.9999999999999385
+-0.7142857142856838 + 0.8806305718526514i
+-0.7142857142856838 - 0.8806305718526514i
+Test N5:
+For equation 
+4.5x^3 - 3x^2 - 0.5x + 7 = 0
+There are 1 real ,2 complex solutions:
+-0.9999999999999999
+0.8333333333333333 + 0.9279607271383369i
+0.8333333333333333 - 0.9279607271383369i
+Test N6:
+For equation 
+2x^3 + 5x^2 + 3x - 3 = 0
+There are 1 real ,2 complex solutions:
+0.5000000000000064
+-1.500000000000003 + 0.8660254037844458i
+-1.500000000000003 - 0.8660254037844458i
+Test N7:
+For equation 
+8x^3 - 36x^2 + 54x - 27 = 0
+There is 1 real solution:
+1.5
+Test N8:
+For equation 
+8x^3 + 12x^2 + 6x + 1 = 0
+There is 1 real solution:
+-0.5
+Test N9:
+For equation 
+x^3 - x^2 - 4x - 6 = 0
+There are 1 real ,2 complex solutions:
+3.0000000000000004
+-1.0000000000000002 + 1.0000000000000007i
+-1.0000000000000002 - 1.0000000000000007i
+Test N10:
+For equation 
+2x^3 - 3x^2 - 3x + 2 = 0
+There are 3 real solutions:
+-1.0
+0.5
+2.0
+Test N11:
+For equation 
+3x^3 + 4x^2 + 2x  = 0
+There are 1 real ,2 complex solutions:
+0
+-0.6666666666666666 + 0.4714045207910317i
+-0.6666666666666666 - 0.4714045207910317i
+Test N12:
+For equation 
+2x^3 - 11x^2 + 12x + 9 = 0
+There are 2 real solutions:
+-0.4999999999999998
+3.0
+Test N13:
+For equation 
+x^3 + 2x^2 + x + 1 = 0
+There are 1 real ,2 complex solutions:
+-1.7548776662466925
+-0.12256116687665364 + 0.7448617666197441i
+-0.12256116687665364 - 0.7448617666197441i
+Test N14:
+For equation 
+5x^3 - 8x^2 - 8x + 5 = 0
+There are 3 real solutions:
+-0.9999999999999999
+0.46933761370819116
+2.1306623862918075
+Test N15:
+For equation 
+x^3 - 2x^2 - x + 1 = 0
+There are 3 real solutions:
+-0.8019377358048382
+0.5549581320873717
+2.2469796037174667
+Test N16:
+For equation 
+x^4 + 5x^2 + 4 = 0
+There are 4 complex solutions:
+-1.0i
+1.0i
+2.0i
+-2.0i
+Test N17:
+For equation 
+x^4 - 6x^3 + 11x^2 - 6x  = 0
+There are 4 real solutions:
+0
+1.0
+2.0
+3.0
+Test N18:
+For equation 
+x^4 - 5x^2 + 6 = 0
+There are 4 real solutions:
+-1.732050807568876
+-1.414213562373096
+1.414213562373096
+1.732050807568876
+Test N19:
+For equation 
+x^4 + x^3 + x^2 + x + 1 = 0
+There are 2 real ,2 complex solutions:
+-0.8902237960926827
+-0.21290521877949792
+0.05156450743609026 + 0.9599856343111248i
+0.05156450743609026 - 0.9599856343111248i
+Test N20:
+For equation 
+7x^4 + 10x^3 + 4x^2 + 8x + 10 = 0
+There are 4 complex solutions:
+0.4565493918661202 + 0.9501858710823082i
+0.4565493918661202 - 0.9501858710823082i
+-1.1708351061518343 + 0.47692705057453216i
+-1.1708351061518343 - 0.47692705057453216i
+Test N21:
+For equation 
+x^4 + 5x^2 + 4 = 0
+There are 4 complex solutions:
+-1.0i
+1.0i
+2.0i
+-2.0i
+Test N22:
+For equation 
+x^4 - 4x^2 - 5 = 0
+There are 2 real ,2 complex solutions:
+-2.23606797749979
+2.23606797749979
+1.0i
+-1.0i
+Test N23:
+For equation 
+x^4 - 2x^3 + 3x^2 - 2x + 2 = 0
+There are 4 complex solutions:
+-1.0i
+1.0i
+1.0 - 1.0i
+1.0 + i
+Test N24:
+For equation 
+4x^4 + 1 = 0
+There are 4 complex solutions:
+0.5 + 0.5i
+0.5 - 0.5i
+-0.5 + 0.5i
+-0.5 - 0.5i
+Test N25:
+For equation 
+2x^4 + 5x^2 - 3 = 0
+There are 2 real ,2 complex solutions:
+-0.7071067811865475
+0.7071067811865475
+1.7320508075688772i
+-1.7320508075688772i
+Test N26:
+For equation 
+16x^4 + 145x^2 + 9 = 0
+There are 4 complex solutions:
+-0.25i
+0.25i
+3.0i
+-3.0i
+Test N27:
+For equation 
+2x^4 - 2.1x^3 + 1.1x^2  = 0
+There are 1 real ,2 complex solutions:
+0
+0.525 + 0.5238081709939241i
+0.525 - 0.5238081709939241i
+Test N28:
+For equation 
+x^4 - x^3 - x^2 + x  = 0
+There are 3 real solutions:
+-1.0
+0
+1.0
+Test N29:
+For equation 
+x^4 + 2x^3 - 2x - 1 = 0
+There are 2 real ,2 complex solutions:
+-0.4794369132706362
+0.9728196919460028
+-1.2466913893376832 + 0.37730408647524444i
+-1.2466913893376832 - 0.37730408647524444i
+Test N30:
+For equation 
+x^4 + 4x^3 + 6x^2 + 4x + 1 = 0
+There is 1 real solution:
+-1.0
+Test N31:
+For equation 
+x^2 + 2x - 3 = 0
+There are 2 real solutions:
+-3.0
+1.0
+Test N32:
+For equation 
+-3x^2 + 2x + 1 = 0
+There are 2 real solutions:
+-0.3333333333333333
+1.0
+Test N33:
+For equation 
+3x^3 + 4x^2 - 2x  = 0
+There are 3 real solutions:
+-1.7207592200561266
+0
+0.38742588672279316
+Test N34:
+For equation 
+x^3 + 2x  = 0
+There are 1 real ,2 complex solutions:
+0
+1.4142135623730951i
+-1.4142135623730951i
+Test N35:
+For equation 
+x^3 - 2x  = 0
+There are 3 real solutions:
+-1.4142135623730951
+0
+1.4142135623730951
+Test N36:
+For equation 
+x^3 + 2 = 0
+There are 1 real ,2 complex solutions:
+-1.2599210498948732
+0.6299605249474366 - 1.0911236359717214i
+0.6299605249474366 + 1.0911236359717214i
+Test N37:
+For equation 
+2x^3 + 5x^2 + 3x - 3 = 0
+There are 1 real ,2 complex solutions:
+0.5000000000000064
+-1.500000000000003 + 0.8660254037844458i
+-1.500000000000003 - 0.8660254037844458i
+Test N38:
+For equation 
+x^3 - 2x^2 - x + 1 = 0
+There are 3 real solutions:
+-0.8019377358048382
+0.5549581320873717
+2.2469796037174667
+Test N39:
+For equation 
+x^4 + 3x^2 + 6 = 0
+There are 4 complex solutions:
+0.6890173229981877 + 1.4052561586385555i
+0.6890173229981877 - 1.4052561586385555i
+-0.6890173229981877 + 1.4052561586385555i
+-0.6890173229981877 - 1.4052561586385555i
+Test N40:
+For equation 
+x^4 + 3x^3 + 2x^2  = 0
+There are 3 real solutions:
+-2.0
+-1.0
+0
+Test N41:
+For equation 
+x^4 + 3x^3 + 2x^2 + 10x  = 0
+There are 2 real ,2 complex solutions:
+-3.3089073197650927
+0
+0.15445365988254633 - 1.7315570329759913i
+0.15445365988254633 + 1.7315570329759913i
